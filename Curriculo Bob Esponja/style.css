@@ -1,0 +1,80 @@
+*{
+    margin: 0;
+}
+
+body{
+background-color: rgb(192, 191, 190);
+}
+
+header{
+    display: flex;
+    margin: 30px;
+}
+
+header h1 {
+    font-size: 70px;
+    margin-top: 100px;
+}
+img {
+    width: 300px;
+    margin-left: 250px;
+    border: 1px solid;
+    border-radius: 50%;
+    margin-top: 50px;
+}
+.dados{
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.dados ul{
+    list-style-type: none;
+}
+
+.objetivo{
+    margin: 30px;    
+}
+
+.objetivo h2{
+    background-color: yellow;
+    border-radius: 10px;
+}
+
+.atuacao{
+    margin: 30px;
+    
+}
+
+
+.formacao{
+    margin: 30px;
+}
+
+.experiencia{
+    margin: 30px;
+}
+
+.experiencia p {
+    font-weight: bold;
+}
+
+.idiomas{
+    margin: 30px;
+}
+
+.premiacoes{
+    margin: 30px;
+}
+
+h2{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+hr{
+    margin: 5px;
+    height: 3px;
+    background-color: black;
+    border-radius: 20px;
+}
